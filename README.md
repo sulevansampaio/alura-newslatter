@@ -2,7 +2,7 @@
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |   https://cursos.alura.com.br/vitrinedev/sulevansampaio  |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Newlatter**
 | :label: Tecnologias | html, css, javascript tailwind
